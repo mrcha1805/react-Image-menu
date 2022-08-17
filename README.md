@@ -1,13 +1,14 @@
-#Run React Project on local 
+# Run React Project on local 
 
 npm start 
 
-#Build Project
+# Build Project
 
 npm run build
 
 
+##### visit: https://cheery-raindrop-8ea822.netlify.app/
 
-mrcha
+###### develop by mrcha
 
-contact: potter1805@gmail.com
+###### contact: potter1805@gmail.com
